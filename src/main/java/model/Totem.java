@@ -53,7 +53,7 @@ public class Totem {
                 }
             }
 
-            return (String)listaMacAAdress.get(1);
+            return (String)listaMacAAdress.get(0);
         }
 
         public Integer getCodigoTotem() {
